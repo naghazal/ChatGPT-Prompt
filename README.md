@@ -46,7 +46,7 @@ If you're not satisfied with the initial responses, experiment with different pr
 
 
 ### Examples: Creating Diagrams with ChatGPT
-ChatGPT can be a helpful tool for creating diagrams and visual representations of Azure services. Here's an example of creating a diagram:
+ChatGPT can be a helpful tool for creating diagrams and visual representations. Here's an example of creating a diagram:
 
 #### Prompt :
 ![classroom](1.png)
