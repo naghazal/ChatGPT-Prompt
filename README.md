@@ -34,14 +34,23 @@ To create interactive conversations, structure your prompts as a back-and-forth 
 ### Experiment and iterate: 
 If you're not satisfied with the initial responses, experiment with different prompts. Iterate and refine your prompts to obtain the desired output.
 
+
+
 ### ChatGPT Prompt Cheatsheet
 
-![classroom](prompt.jpg)
+![classroom](prompt2.png)
 
 ### 20 ways to use ChatGPT
 
 ![classroom](classroom.jpg)
 
 
-### Examples: Creating Azure Diagrams with ChatGPT
-ChatGPT can be a helpful tool for creating diagrams and visual representations of Azure services. Here's an example of creating a diagram that includes Azure Kubernetes Service (AKS), Azure Key Vault, and other related services:
+### Examples: Creating Diagrams with ChatGPT
+ChatGPT can be a helpful tool for creating diagrams and visual representations of Azure services. Here's an example of creating a diagram:
+
+#### Prompt :
+![classroom](1.png)
+![classroom](2.png)
+![classroom](3.png)
+
+
