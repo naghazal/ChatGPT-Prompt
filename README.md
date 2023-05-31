@@ -9,9 +9,6 @@ Welcome to the ChatGPT Prompt Optimization Training! This session is designed to
 - Understanding ChatGPT
 - Effective Prompt Creation
 - Examples: Creating Azure Diagrams with ChatGPT
-- Other Examples
-- Conclusion
-
 
 ## Introduction
 ChatGPT is a powerful language model that can engage in meaningful conversations. However, to make the most out of your interactions, it's essential to provide clear and well-structured prompts. This training session will guide you through the process of optimizing your prompts to improve the quality of responses from ChatGPT.
