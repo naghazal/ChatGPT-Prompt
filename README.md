@@ -1,4 +1,4 @@
-# ChatGPT Prompt Optimization Training
+# ChatGPT Prompt Engineering (From Zero to Hero)
 
 
 Welcome to the ChatGPT Prompt Optimization Training! This session is designed to help you maximize your interactions with ChatGPT by explaining how to create effective prompts. By following the provided techniques and strategies, you will learn how to elicit more accurate and relevant responses from the model, enhancing your overall conversational experience.
