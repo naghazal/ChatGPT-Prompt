@@ -8,7 +8,7 @@ Welcome to the ChatGPT Prompt Optimization Training! This session is designed to
 - Introduction
 - Understanding ChatGPT
 - Effective Prompt Creation
-- ChatGPT Prompt Cheatsheet
+- Chat-GPT Prompt Cheatsheet
 - 20 ways to use ChatGPT in classroom
 - Examples: Creating Azure Diagrams with ChatGPT
 
